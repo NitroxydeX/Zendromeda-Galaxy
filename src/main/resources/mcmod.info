@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zendromeda-galaxy",
+  "name": "Zendromeda Galaxy",
+  "description": "TOP SECRET",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NitroxydeX"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
